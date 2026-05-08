@@ -1,1 +1,1 @@
-tester_build_version1
+beta1.6_for_testers
